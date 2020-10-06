@@ -32,7 +32,7 @@
         {% endif %}
 
         <!--<h1>{{ site.title }}</h1> -->
-        <b><h1>Vinu</h1></b1> <h1>Sankar Sadasivan</h1>
+        <h1><i>Vinu</i> Sankar Sadasivan</h1>
         <p>
         {% if site.position %}
         {{ site.position }}
@@ -41,7 +41,7 @@
         {{ site.affiliation }}
         <br>
         {% if site.email %}
-        <a href="mailto:{{ site.email }}", target="_blank" /></p>
+          {{ site.email }}</p>
         {% endif %}
 
       </header>
@@ -64,20 +64,19 @@
           
           {% if site.google_scholar %}
           <a href="{{ site.google_scholar}}" target="_blank">
-            <!--<i class="ai ai-google-scholar" style="font-size:1.6rem"></i>-->
-            <i class="ai ai-google-scholar" style="font-size:12px"></i>
+            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
           </a>
           {% endif %}
           
           {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank">
-            <i class="fab fa-linkedin-in" style="font-size:12px"></i>
+            <i class="fab fa-linkedin-in"></i>
           </a>
           {% endif %}
           
           {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github" style="font-size:12px"></i>
+            <i class="fab fa-github"></i>
           </a>
           {% endif %}
         </div>
