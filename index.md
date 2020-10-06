@@ -2,10 +2,9 @@
 layout: homepage
 ---
 
-## Research Interests
+## About Me
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta) at IIT Gandhinagar, India. I received my Bachelor's degree and the Director's Silver Medal in Computer Science & Engineering in 2020. Previously, I had interned at Caltech (with [Dr. Ashish in 2019](https://sites.astro.caltech.edu/~aam/)), Microsoft Research India (with [Dr. Harsha](http://harsha-simhadri.org/) in 2019), and IISc (with [Prof. Chandra](https://sites.google.com/site/chandrasekharseelamantula/) in 2017). My research interest broadly lies in the area of machine learning. Don't hesitate to contact me through email!
 
 ## News
 
@@ -40,7 +39,7 @@ layout: homepage
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-
+<!--
 ## Selected Talks
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
@@ -66,3 +65,4 @@ layout: homepage
 - Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
 - Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
 - Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+-->
