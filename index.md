@@ -4,40 +4,31 @@ layout: homepage
 
 ## About Me
 
-I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta) at IIT Gandhinagar, India. I received my Bachelor's degree and the Director's Silver Medal in Computer Science & Engineering in 2020. Previously, I had interned at Caltech (with [Dr. Ashish in 2019](https://sites.astro.caltech.edu/~aam/)), Microsoft Research India (with [Dr. Harsha](http://harsha-simhadri.org/) in 2019), and IISc (with [Prof. Chandra](https://sites.google.com/site/chandrasekharseelamantula/) in 2017). My research interest broadly lies in the area of machine learning. Don't hesitate to contact me through email!
+I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta) at IIT Gandhinagar, India. I received the Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020. Previously, I had interned at Caltech (with [Dr. Ashish in 2019](https://sites.astro.caltech.edu/~aam/)), Microsoft Research India (with [Dr. Harsha](http://harsha-simhadri.org/) in 2019), and IISc (with [Prof. Chandra](https://sites.google.com/site/chandrasekharseelamantula/) in 2017). My research interest broadly lies in the area of machine learning. Don't hesitate to contact me through email!
 
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Aug 2020]** Started working as JRF.
+- **[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Shallow RNN: accurate time-series classification on resource constrained devices**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  D Dennis, DAE Acar, V Mandikal, **VS Sadasivan**, V Saligrama, HV Simhadri, P Jain
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  33rd Annual Conference on Neural Information Processing Systems. **NeurIPS 2019**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **VS Sadasivan**, CS Seelamantula
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  IEEE 16th International Symposium on Biomedical Imaging. **ISBI 2019**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/)]
 
 <!--
 ## Selected Talks
