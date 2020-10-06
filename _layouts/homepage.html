@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>Vinu's Homepage<!--{{ site.title }} | {{site.affiliation}}--></title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -69,6 +69,11 @@
           {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
+          </a>
+          {% endif %}
+          {% if site.twitter %}            
+          <a href="{{ site.twitter }}" target="_blank">
+            <i class="fab fa-twitter"></i>
           </a>
           {% endif %}
         </div>
