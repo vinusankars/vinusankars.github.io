@@ -34,13 +34,15 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 
     <script>
-		{{ site.random }} = {{ site.email }};
+	    function unscramble() {
+			   		{{ site.random }} = {{ site.email }}; 
+				  }		
     </script>
     
   </head>
   <body>    
     <b>Email</b>:
-		<div id="email" style="display:inline;">{{ site.random }}<a href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble</a></div>
+		<div id="email" style="display:inline;">{{ site.random }} <a href="#" onclick="unscramble();">unscramble</a></div>
     <div class="wrapper">
       <header>
         
