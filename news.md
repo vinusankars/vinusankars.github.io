@@ -15,4 +15,4 @@ layout: homepage
 - **[Feb 2019]** Work at IISc accepted at IEEE ISBI 2019.
 - **[Jan 2019]** Started working as research intern at MSR India.
 - **[Nov 2018]** Received Caltech's SURF for summer 2019.
-- **[Mar 2017]** Started working as research intern at IISc Bangalore.
+- **[May 2017]** Started working as research intern at IISc Bangalore.
