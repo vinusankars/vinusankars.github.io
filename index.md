@@ -13,8 +13,6 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
 - **[Sep 2020]** Received cash award for CS publication from IIT Gandhinagar.
 - **[Aug 2020]** Started working as JRF.
 - **[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.
-
-
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
@@ -28,8 +26,7 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
 <li><b>[May 2017]</b> Started working as research intern at IISc Bangalore.</li>
   </ul>
 </p>
-</details>
-
+</details><p/>
 
 ## Publications
 
