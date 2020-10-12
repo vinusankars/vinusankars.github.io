@@ -8,11 +8,12 @@ I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://sites.g
 
 I received the Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech (with [Dr. Ashish Mahabal](https://sites.astro.caltech.edu/~aam/) in 2019), Microsoft Research India (with [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/) in 2019), and IISc (with [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/) in 2017).  
 
-## [News](https://vinusankars.github.io/news)
+## News
 
 - **[Sep 2020]** Received cash award for CS publication from IIT Gandhinagar.
 - **[Aug 2020]** Started working as JRF.
 - **[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.
+
 <details>
 <summary> <b> Read more </b> </summary>
   
