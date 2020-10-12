@@ -31,7 +31,13 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
 
 ## Publications
 
-
+- **A simple approach to define curricula for training neural networks**
+  <br>
+  **VS Sadasivan**, A Dasgupta
+  <br>
+  Under review, 2021.
+  <br>
+  
 - **Shallow RNN: accurate time-series classification on resource constrained devices**
   <br>
   D Dennis, DAE Acar, V Mandikal, **VS Sadasivan**, V Saligrama, HV Simhadri, P Jain
