@@ -30,7 +30,6 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
 </p>
 </details>
 <br>
-
 ## Publications
 
 - **A simple approach to define curricula for training neural networks**
