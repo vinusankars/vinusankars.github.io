@@ -16,7 +16,7 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
 
 
 <details>
-<summary> <b> Read more </b> </summary>
+<summary> <b> Show more </b> </summary>
 <p>
 <ul>
   <li><b>[Sep 2019]</b> Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.</li>
