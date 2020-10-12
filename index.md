@@ -17,6 +17,7 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
 <details>
 <summary> <b> Read more </b> </summary>
 <p>
+  
 - **[Sep 2019]** Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.
 - **[Sep 2019]** Work at MSR accepted at NeurIPS 2019.
 - **[May 2019]** Started working as undergraduate research fellow at Caltech.
