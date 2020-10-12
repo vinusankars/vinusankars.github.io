@@ -17,14 +17,15 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
 <details>
 <summary> <b> Read more </b> </summary>
 <p>
-  
-- **[Sep 2019]** Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.
-- **[Sep 2019]** Work at MSR accepted at NeurIPS 2019.
-- **[May 2019]** Started working as undergraduate research fellow at Caltech.
-- **[Feb 2019]** Work at IISc accepted at IEEE ISBI 2019.
-- **[Jan 2019]** Started working as research intern at MSR India.
-- **[Nov 2018]** Received Caltech's SURF for summer 2019.
-- **[May 2017]** Started working as research intern at IISc Bangalore.
+<ul>
+  <li><b>[Sep 2019]</b> Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.</li>
+<li><b>[Sep 2019]</b> Work at MSR accepted at NeurIPS 2019.</li>
+<li><b>[May 2019]</b> Started working as undergraduate research fellow at Caltech.</li>
+<li><b>[Feb 2019]</b> Work at IISc accepted at IEEE ISBI 2019.</li>
+<li><b>[Jan 2019]</b> Started working as research intern at MSR India.</li>
+<li><b>[Nov 2018]</b> Received Caltech's SURF for summer 2019.</li>
+<li><b>[May 2017]</b> Started working as research intern at IISc Bangalore.</li>
+  </ul>
 </p>
 </details>
 
