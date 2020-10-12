@@ -14,6 +14,10 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
 - **[Aug 2020]** Started working as JRF.
 - **[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.
 
+details summary::-webkit-details-marker {
+  display:none;
+}
+
 <details>
 <summary> <b> Read more </b> </summary>
 <p>
@@ -28,6 +32,7 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
   </ul>
 </p>
 </details>
+<br>
 
 ## Publications
 
