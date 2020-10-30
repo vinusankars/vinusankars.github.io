@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta) at the Indian Institute of Technology Gandhinagar, India. My research interest broadly lies in the area of machine learning. 
+I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta){:target="_blank"} at [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}, India. My research interest broadly lies in the area of machine learning. 
 
-I received the Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech (with [Dr. Ashish Mahabal](https://sites.astro.caltech.edu/~aam/) in 2019), Microsoft Research India (with [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/) in 2019), and IISc (with [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/) in 2017).  
+I received the Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech (with [Dr. Ashish Mahabal](https://sites.astro.caltech.edu/~aam/){:target="_blank"} in 2019), Microsoft Research India (with [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/){:target="_blank"} in 2019), and IISc (with [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/){:target="_blank"} in 2017).  
 
 ## News
 
@@ -43,7 +43,7 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
   <br>
   33rd Annual Conference on Neural Information Processing Systems. **NeurIPS 2019**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf)]
+  [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf){:target="_blank"}]
 
 - **High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network**
   <br>
@@ -51,8 +51,8 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
   <br>
   IEEE 16th International Symposium on Biomedical Imaging. **ISBI 2019**.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/)]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}]
 
 ## Personal
 
-In my free time, I love to play ukulele and sing. See my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ) and [Instagram](https://www.instagram.com/vinusankars/) pages for the covers that I have made. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
+In my free time, I love to sing and play ukulele. See my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for the covers that I have made. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
