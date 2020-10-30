@@ -52,3 +52,7 @@ I received the Director's Silver Medal and my Bachelor's degree in Computer Scie
   IEEE 16th International Symposium on Biomedical Imaging. **ISBI 2019**.
   <br>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/)]
+
+## Personal
+
+In my free time, I love to play ukulele and sing. See my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ) and [Instagram](https://www.instagram.com/vinusankars/) pages for the covers that I have made. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
