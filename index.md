@@ -6,7 +6,7 @@ layout: homepage
 
 I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta){:target="_blank"} at [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}, India. My research interest broadly lies in the area of machine learning. 
 
-I received the Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech (with [Dr. Ashish Mahabal](https://sites.astro.caltech.edu/~aam/){:target="_blank"} in 2019), Microsoft Research India (with [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/){:target="_blank"} in 2019), and IISc (with [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/){:target="_blank"} in 2017).  
+I received the Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech, Pasadena (with [Dr. Ashish Mahabal](https://sites.astro.caltech.edu/~aam/){:target="_blank"} in 2019), Microsoft Research India, Bangalore (with [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/){:target="_blank"} in 2019), and IISc, Bangalore (with [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/){:target="_blank"} in 2017, 2018).  
 
 ## News
 
