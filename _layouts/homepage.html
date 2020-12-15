@@ -10,9 +10,7 @@
       gtag('js', new Date());
 
       gtag('config', 'UA-179771578-1');
-    </script>
-    
-    <script>
+      
       backward {
               display: inline-block;
               -moz-transform: scale(-1, 1);
@@ -60,8 +58,9 @@
         {% endif %}
         {{ site.affiliation }}
         <br>
-          <backward>ni.ca.ngtii@raknas.univ</backward>
-          
+        <backward>ni.ca.ngtii@raknas.univ</backward>
+        {% if site.email %}
+        {{ site.email }}
         {% endif %}
 
       </header>
