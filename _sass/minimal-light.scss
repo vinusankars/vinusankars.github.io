@@ -9,6 +9,13 @@ body {
   margin:0
 }
 
+backward {
+          display: inline-block;
+          -moz-transform: scale(-1, 1);
+          -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+          }
+
 // details summary::-webkit-details-marker {
 //   display:none;
 // }
