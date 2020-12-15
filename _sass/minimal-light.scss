@@ -9,6 +9,8 @@ body {
   margin:0
 }
 
+
+
 backward {
           display: inline-block;
           -moz-transform: scale(-1, 1);
@@ -16,9 +18,11 @@ backward {
           transform: scale(-1, 1);
           }
 
-// details summary::-webkit-details-marker {
-//   display:none;
-// }
+.text-reverse {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    text-align: left;
+}
 
 details > summary {
   list-style: none;
