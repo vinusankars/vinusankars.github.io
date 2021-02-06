@@ -30,7 +30,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
 ## Publications
 
-- **A simple approach to define curricula for training neural networks**
+- **Statistical measures for defining curriculum scoring function**
   <br>
   **VS Sadasivan**, A Dasgupta
   <br>
