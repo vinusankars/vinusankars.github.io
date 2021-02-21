@@ -35,23 +35,19 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   **VS Sadasivan**, A Dasgupta
   <br>
   Under review, 2021.
-  <br>
   
 - **Shallow RNN: accurate time-series classification on resource constrained devices**
   <br>
-  D Dennis, DAE Acar, V Mandikal, **VS Sadasivan**, V Saligrama, HV Simhadri, P Jain
+  D Dennis, DAE Acar, V Mandikal, **VS Sadasivan**, V Saligrama, HV Simhadri, P Jain [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf){:target="_blank"}]
   <br>
   33rd Annual Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf){:target="_blank"}]
 
 - **High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network**
   <br>
-  **VS Sadasivan**, CS Seelamantula
+  **VS Sadasivan**, CS Seelamantula [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}]
   <br>
   IEEE 16th International Symposium on Biomedical Imaging. **ISBI 2019**.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}]
 
 ## Personal
 
