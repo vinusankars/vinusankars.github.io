@@ -34,7 +34,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   <br>
   **VS Sadasivan**, A Dasgupta
   <br>
-  Under review, 2021.
+  [[PDF](https://arxiv.org/abs/2103.00147){:target="_blank"}] Under review, 2021.
   
 - **Shallow RNN: accurate time-series classification on resource constrained devices**
   <br>
