@@ -8,6 +8,27 @@ I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.ii
 
 I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech, Pasadena (with [Dr. Ashish Mahabal](https://sites.astro.caltech.edu/~aam/){:target="_blank"} in 2019), Microsoft Research India, Bangalore (with [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/){:target="_blank"} in 2019), and IISc, Bangalore (with [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/){:target="_blank"} in 2017, 2018). I did my undergraduate project courses with [Prof. Nithin George](https://sites.google.com/iitgn.ac.in/nvg/){:target="_blank"} and [Prof. Joycee Mekie](http://joycee.people.iitgn.ac.in/){:target="_blank"} on "Functional Link Networks for Active Noise Cancellation" and "Approximate Multipliers for FPGAs".
 
+## Publications
+
+- **Statistical measures for defining curriculum scoring function**
+  <br>
+  **VS Sadasivan**, A Dasgupta
+  <br>
+  [[PDF](https://arxiv.org/abs/2103.00147){:target="_blank"}] Under review, 2021.
+  
+- **Shallow RNN: accurate time-series classification on resource constrained devices**
+  <br>
+  D Dennis, DAE Acar, V Mandikal, **VS Sadasivan**, V Saligrama, HV Simhadri, P Jain 
+  <br>
+  [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf){:target="_blank"}] Annual Conference on Neural Information Processing Systems (NeurIPS 2019).
+
+- **High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network**
+  <br>
+  **VS Sadasivan**, CS Seelamantula 
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}] IEEE International Symposium on Biomedical Imaging (ISBI 2019).
+  <br>
+  
 ## Life Log
 
 - **[Feb 2021]** _stddev_ curriculum learning work preprint available on arXiv.
@@ -29,27 +50,6 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   </ul>
 </p>
 </details><p/>
-
-## Publications
-
-- **Statistical measures for defining curriculum scoring function**
-  <br>
-  **VS Sadasivan**, A Dasgupta
-  <br>
-  [[PDF](https://arxiv.org/abs/2103.00147){:target="_blank"}] Under review, 2021.
-  
-- **Shallow RNN: accurate time-series classification on resource constrained devices**
-  <br>
-  D Dennis, DAE Acar, V Mandikal, **VS Sadasivan**, V Saligrama, HV Simhadri, P Jain 
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf){:target="_blank"}] Annual Conference on Neural Information Processing Systems (NeurIPS 2019).
-
-- **High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network**
-  <br>
-  **VS Sadasivan**, CS Seelamantula 
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}] IEEE International Symposium on Biomedical Imaging (ISBI 2019).
-  <br>
 
 ## Personal
 
