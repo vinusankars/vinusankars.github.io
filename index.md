@@ -8,7 +8,7 @@ I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.ii
 
 I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech, Pasadena (with [Dr. Ashish Mahabal](https://sites.astro.caltech.edu/~aam/){:target="_blank"} in 2019), Microsoft Research India, Bangalore (with [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/){:target="_blank"} in 2019), and IISc, Bangalore (with [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/){:target="_blank"} in 2017, 2018). I did my undergraduate project courses with [Prof. Nithin George](https://sites.google.com/iitgn.ac.in/nvg/){:target="_blank"} and [Prof. Joycee Mekie](http://joycee.people.iitgn.ac.in/){:target="_blank"} on "Functional Link Networks for Active Noise Cancellation" and "Approximate Multipliers for FPGAs".
 
-## Publications
+## Research
 
 - **Statistical measures for defining curriculum scoring function**
   <br>
