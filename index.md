@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. I will be joining [The University of Maryland, College Park](https://www.cs.umd.edu/){:target="_blank"} in Fall 2021 to pursue my PhD in CS. My research interest broadly lies in the area of machine learning. I am interested in designing robust, energy- and compute- efficient machine learning algorithms. 
+I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. 
+
+I will be joining [The University of Maryland, College Park](https://www.cs.umd.edu/){:target="_blank"} in Fall 2021 to pursue my PhD in CS. My research interest broadly lies in the area of machine learning. I am interested in designing robust, energy- and compute- efficient machine learning algorithms. 
  
-I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech, Pasadena (with [Dr. Ashish Mahabal](https://sites.astro.caltech.edu/~aam/){:target="_blank"}), Microsoft Research India, Bangalore (with [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/){:target="_blank"}), and IISc, Bangalore (with [Prof. Chandra Sekhar Seelamantula](https://sites.google.com/site/chandrasekharseelamantula/){:target="_blank"}). I did my undergraduate project courses with [Prof. Nithin George](https://sites.google.com/iitgn.ac.in/nvg/){:target="_blank"} and [Prof. Joycee Mekie](http://joycee.people.iitgn.ac.in/){:target="_blank"} on "Functional Link Networks for Active Noise Cancellation" and "Approximate Multipliers for Neural Networks on FPGAs".
+I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
 ## Research
 
@@ -31,19 +33,19 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   
 ## Life Log
 
-- **[Feb 2021]** _stddev_ curriculum learning work preprint available on arXiv.
+- **[Feb 2021]** Curriculum learning work preprint now available on arXiv.
 - **[Feb 2021]** Reviewer for ICML 2021.
 - **[Sep 2020]** Received cash award for CS publication from IIT Gandhinagar.
-- **[Aug 2020]** Started working as JRF.
+- **[Aug 2020]** Started working as JRF at IIT Gandhinagar.
 - **[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
 <ul>
   <li><b>[Sep 2019]</b> Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.</li>
-<li><b>[Sep 2019]</b> Work at MSR accepted at NeurIPS 2019.</li>
+<li><b>[Sep 2019]</b> Work on Shallow RNN accepted at NeurIPS 2019.</li>
 <li><b>[May 2019]</b> Started working as undergraduate research fellow at Caltech.</li>
-<li><b>[Feb 2019]</b> Work at IISc accepted at IEEE ISBI 2019.</li>
+<li><b>[Feb 2019]</b> Work on endoscopy abnormality classification accepted at IEEE ISBI 2019.</li>
 <li><b>[Jan 2019]</b> Started working as research intern at MSR India.</li>
 <li><b>[Nov 2018]</b> Received Caltech's SURF for summer 2019.</li>
 <li><b>[May 2017]</b> Started working as research intern at IISc Bangalore.</li>
@@ -53,4 +55,4 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
 ## Personal
 
-I come from the beautiful town Kollam in Kerala. In my free time, I love to sing and play ukulele. See my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for the covers that I have made. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
+I come from the beautiful town Kollam in Kerala. In my free time, I love to sing and play the ukulele. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
