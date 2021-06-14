@@ -65,6 +65,12 @@ papertitle {
     position: relative;
   }
 
+  .text-reverse {
+      unicode-bidi: bidi-override;
+      direction: rtl;
+      text-align: left;
+  }
+
     .image:before {
       -moz-transition: opacity 0.2s ease-in-out;
       -webkit-transition: opacity 0.2s ease-in-out;
