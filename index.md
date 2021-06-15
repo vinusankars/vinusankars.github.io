@@ -14,19 +14,19 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
 - **Statistical measures for defining curriculum scoring function**
   <br>
-  **VS Sadasivan**, A Dasgupta
+  <u>VS Sadasivan</u>, A Dasgupta
   <br>
   [[PDF](https://arxiv.org/abs/2103.00147){:target="_blank"}] Available on arXiv, 2021.
   
 - **Shallow RNN: accurate time-series classification on resource constrained devices**
   <br>
-  D Dennis, DAE Acar, V Mandikal, **VS Sadasivan**, V Saligrama, HV Simhadri, P Jain 
+  D Dennis, DAE Acar, V Mandikal, <u>VS Sadasivan</u>, V Saligrama, HV Simhadri, P Jain 
   <br>
   [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf){:target="_blank"}] Annual Conference on Neural Information Processing Systems (NeurIPS 2019).
 
 - **High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network**
   <br>
-  **VS Sadasivan**, CS Seelamantula 
+  <u>VS Sadasivan</u>, CS Seelamantula 
   <br>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}] IEEE International Symposium on Biomedical Imaging (ISBI 2019).
   <br>
