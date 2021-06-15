@@ -322,6 +322,7 @@ hr {
 }
 
 footer {
+  top:20px;
   width:220px;
   float:left;
   position:fixed;
@@ -368,7 +369,7 @@ footer {
 
    .image.avatar img {
         border-radius: 100%;
-        width: 200px; /*117*/
+        width: 50%; /*117*/
         padding:20px;
       }
   #head1o2 {
@@ -415,7 +416,7 @@ footer {
 
   .image.avatar img {
       border-radius: 100%;
-      width: 95px;
+      width: 50%; /*95px*/
       padding:20px;
   }
   #head1o2 {
