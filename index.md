@@ -10,7 +10,7 @@ I will be joining [The University of Maryland, College Park](https://www.cs.umd.
  
 I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
-## Research
+## My Research
 
 - **Statistical measures for defining curriculum scoring function**
   <br>
@@ -31,7 +31,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}] IEEE International Symposium on Biomedical Imaging (ISBI 2019).
   <br>
   
-## Life Log
+## News
 
 - **[Feb 2021]** Curriculum learning work preprint now available on arXiv.
 - **[Feb 2021]** Reviewer for ICML 2021.
@@ -53,6 +53,6 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 </p>
 </details><p/>
 
-## Personal
+## Personal Stuff
 
 I come from the beautiful town Kollam in Kerala. In my free time, I love to sing and play the ukulele. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
