@@ -322,11 +322,10 @@ hr {
 }
 
 footer {
-  top:20px;
   width:220px;
   float:left;
   position:fixed;
-  bottom:30px;
+  bottom:20px;
   -webkit-font-smoothing:subpixel-antialiased;
   text-align:center;
 }
@@ -369,7 +368,7 @@ footer {
 
    .image.avatar img {
         border-radius: 100%;
-        width: 50%; /*117*/
+        width: 25%; /*117*/
         padding:20px;
       }
   #head1o2 {
@@ -416,7 +415,7 @@ footer {
 
   .image.avatar img {
       border-radius: 100%;
-      width: 50%; /*95px*/
+      width: 25%; /*95px*/
       padding:20px;
   }
   #head1o2 {
