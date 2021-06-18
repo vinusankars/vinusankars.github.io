@@ -17,7 +17,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   <u>VS Sadasivan</u>, A Dasgupta
   <br>
   [[PDF](https://arxiv.org/abs/2103.00147){:target="_blank"}] Available on arXiv, 2021. <br>
-  Short version accepted at SubSetML @ ICML 2021.
+  Short version accepted (spotlight) at SubSetML @ ICML 2021.
   
 - **Shallow RNN: accurate time-series classification on resource constrained devices**
   <br>
