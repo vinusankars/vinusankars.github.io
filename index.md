@@ -19,12 +19,14 @@ Statistical measures for defining curriculum scoring function.<br>
  <a href="https://arxiv.org/abs/2103.00147" target="_blank">[PDF]</a> Short version to appear at SubSetML @ ICML 2021 (Spotlight).<br>
 </details>
 
+
 <details open>
  <summary><b>2019</b></summary>
 D Dennis, DAE Acar, V Mandikal, <u>VS Sadasivan</u>, V Saligrama, HV Simhadri, P Jain<br>
 Shallow RNN: accurate time-series classification on resource constrained devices.<br>
 <a href="http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf" target="_blank">[PDF]</a> NeurIPS 2019.<br>
 
+ 
 <u>VS Sadasivan</u>, CS Seelamantula<br>
 High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network.<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8759324/" target="_blank">[PDF]</a> IEEE ISBI 2019.<br>
