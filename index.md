@@ -12,46 +12,42 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
 ## My Research
 
-- **Statistical measures for defining curriculum scoring function**
-  <br>
-  <u>VS Sadasivan</u>, A Dasgupta
-  <br>
-  [[PDF](https://arxiv.org/abs/2103.00147){:target="_blank"}] Available on arXiv, 2021. <br>
-  Short version accepted (spotlight) at SubSetML @ ICML 2021.
-  
-- **Shallow RNN: accurate time-series classification on resource constrained devices**
-  <br>
-  D Dennis, DAE Acar, V Mandikal, <u>VS Sadasivan</u>, V Saligrama, HV Simhadri, P Jain 
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf){:target="_blank"}] Annual Conference on Neural Information Processing Systems (NeurIPS 2019).
+<details open>
+  <summary><b>2021</b></summary>
+<u>Vinu Sankar Sadasivan</u>, A Dasgupta<br>
+Statistical measures for defining curriculum scoring function.<br>
+[[PDF](https://arxiv.org/abs/2103.00147){:target="_blank"}] Short version to appear at SubSetML @ ICML 2021 (Spotlight).<br>
+</details>
 
-- **High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network**
-  <br>
-  <u>VS Sadasivan</u>, CS Seelamantula 
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}] IEEE International Symposium on Biomedical Imaging (ISBI 2019).
-  <br>
-  
+<details open>
+ <summary><b>2019</b></summary>
+D Dennis, DAE Acar, V Mandikal, <u>VS Sadasivan</u>, V Saligrama, HV Simhadri, P Jain<br>
+Shallow RNN: accurate time-series classification on resource constrained devices.<br>
+[[PDF](http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf){:target="_blank"}] NeurIPS 2019.<br>
+
+<u>VS Sadasivan</u>, CS Seelamantula<br>
+High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network.<br>
+[[PDF](https://ieeexplore.ieee.org/abstract/document/8759324/){:target="_blank"}] IEEE ISBI 2019.<br>
+</details>
+
 ## News
 
-- **[Jun 2021]** Curriculum learning work short version accepted (spotlight) at SubSetML @ ICML 2021.
-- **[Feb 2021]** Curriculum learning work preprint now available on arXiv.
-- **[Feb 2021]** Reviewer for ICML 2021.
-- **[Sep 2020]** Received cash award for CS publication from IIT Gandhinagar.
-- **[Aug 2020]** Started working as JRF at IIT Gandhinagar.
-- **[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.
-<details open>
+**[Jun 2021]** Curriculum learning work short version accepted (spotlight) at SubSetML @ ICML 2021.<br>
+**[Feb 2021]** Curriculum learning work preprint now available on arXiv.<br>
+**[Feb 2021]** Reviewer for ICML 2021.<br>
+**[Sep 2020]** Received cash award for CS publication from IIT Gandhinagar.<br>
+**[Aug 2020]** Started working as JRF at IIT Gandhinagar.<br>
+**[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.<br>
+<details>
 <summary> <b> Show more </b> </summary>
 <p>
-<ul>
-  <li><b>[Sep 2019]</b> Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.</li>
-<li><b>[Sep 2019]</b> Work on Shallow RNN accepted at NeurIPS 2019.</li>
-<li><b>[May 2019]</b> Started working as undergraduate research fellow at Caltech.</li>
-<li><b>[Feb 2019]</b> Work on endoscopy abnormality classification accepted at IEEE ISBI 2019.</li>
-<li><b>[Jan 2019]</b> Started working as research intern at MSR India.</li>
-<li><b>[Nov 2018]</b> Received Caltech's SURF for summer 2019.</li>
-<li><b>[May 2017]</b> Started working as research intern at IISc Bangalore.</li>
-  </ul>
+<b>[Sep 2019]</b> Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.<br>
+<b>[Sep 2019]</b> Work on Shallow RNN accepted at NeurIPS 2019.<br>
+<b>[May 2019]</b> Started working as undergraduate research fellow at Caltech.<br>
+<b>[Feb 2019]</b> Work on endoscopy abnormality classification accepted at IEEE ISBI 2019.<br>
+<b>[Jan 2019]</b> Started working as research intern at MSR India.<br>
+<b>[Nov 2018]</b> Received Caltech's SURF for summer 2019.<br>
+<b>[May 2017]</b> Started working as research intern at IISc Bangalore.<br>
 </p>
 </details><p/>
 
