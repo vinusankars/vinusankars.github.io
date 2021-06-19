@@ -30,6 +30,7 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 <a href="https://ieeexplore.ieee.org/abstract/document/8759324/" target="_blank">[PDF]</a> IEEE ISBI 2019.<br><br>
 </details>
 
+<p/>
 ## News
 
 **[Jun 2021]** Curriculum learning work short version accepted (spotlight) at SubSetML @ ICML 2021.<br>
