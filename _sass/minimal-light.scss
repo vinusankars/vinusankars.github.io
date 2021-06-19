@@ -33,11 +33,6 @@ papertitle {
     font-size: 100%;
   }
 
-u {
-    text-decoration: none;
-    border-bottom: 10px solid white;
-  }
-
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #20212b;
@@ -122,6 +117,11 @@ h2 {
   margin:2px 0px 15px;
   font-size: 157%;
 }
+
+u {
+    text-decoration: none;
+    border-bottom: 10px solid white;
+  }
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
