@@ -14,7 +14,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
 <details open>
   <summary><b>2021</b></summary>
-<u>Vinu Sankar Sadasivan</u>, A Dasgupta<br>
+<u>VS Sadasivan</u>, A Dasgupta<br>
 Statistical measures for defining curriculum scoring function.<br>
  <a href="https://arxiv.org/abs/2103.00147" target="_blank">[PDF]</a> Short version to appear at SubSetML @ ICML 2021 (Spotlight).<br><br>
 </details>
