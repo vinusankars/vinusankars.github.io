@@ -6,7 +6,7 @@ layout: homepage
 
 I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. 
 
-I will be joining [The University of Maryland, College Park](https://www.cs.umd.edu/){:target="_blank"} in Fall 2021 to pursue my PhD in Computer Science. My research interest broadly lies in the area of machine learning. I am interested in designing robust, energy- and compute- efficient machine learning algorithms. 
+I will be joining [The University of Maryland, College Park](https://www.cs.umd.edu/){:target="_blank"} in Fall 2021 to pursue my PhD in Computer Science. My research interest broadly lies in the area of machine learning. I am interested in designing robust and efficient machine learning algorithms. 
  
 I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
@@ -16,7 +16,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   <summary><b>2021</b></summary>
 <u>VS Sadasivan</u>, A Dasgupta<br>
 Statistical measures for defining curriculum scoring function.<br>
- <a href="https://arxiv.org/abs/2103.00147" target="_blank">[PDF]</a> To appear at SubSetML Workshop @ ICML 2021 (Spotlight).<br><br>
+ <a href="https://arxiv.org/abs/2103.00147" target="_blank">[PDF]</a> SubSetML Workshop @ ICML 2021 (Spotlight).<br><br>
 </details>
 
 <details open>
@@ -54,4 +54,4 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## Personal Stuff
 
-I come from the beautiful town Kollam in Kerala. In my free time, I love to sing and play the ukulele. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
+I come from the beautiful town [Kollam](https://en.wikipedia.org/wiki/Kollam){:target="_blank"} in Kerala. In my free time, I love to sing and play the ukulele. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
