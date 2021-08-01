@@ -1,9 +1,9 @@
 title: Vinu Sankar Sadasivan
-position: Junior Research Fellow
-affiliation: IIT Gandhinagar, India
+position: CS PhD student 
+affiliation: UMD, College Park
 email:
 random: sankar
-keywords: vinu sankar sadasivan, machine learning, research, vinu, sankar, shankar, sadasivan, artificial intelligence
+keywords: vinu sankar sadasivan, machine learning, research, vinu, sankar, shankar, sadasivan, artificial intelligence, iit gandhinagar, iitgn, phd, umd college park, umcp
 google_scholar: https://scholar.google.com/citations?user=y1IKIw0AAAAJ&hl=en&oi=ao
 github_link: #https://github.com/yaoyao-liu/minimal-light
 twitter: https://twitter.com/imVinusankars
@@ -13,6 +13,6 @@ avatar: ./assets/img/avatar.png
 google_analytics: UA-179771578-1
 favicon: ./assets/img/favicon1.png
 favicon_dark: ./assets/img/favicon-dark1.png
-description: Vinu Sankar Sadasivan is a JRF at IIT Gandhinagar interested in machine learning research.
+description: Vinu Sankar Sadasivan is a CS PhD student at UMD College Park, interested in machine learning research.
 canonical: https://vinusankars.github.io/
 remote_theme: #yaoyao-liu/minimal-light
