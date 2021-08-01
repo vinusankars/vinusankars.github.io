@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-I work as a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. 
-
-I will be joining [The University of Maryland, College Park](https://www.cs.umd.edu/){:target="_blank"} in Fall 2021 to pursue my PhD in Computer Science. My research interest broadly lies in the area of machine learning. I am interested in designing robust and efficient machine learning algorithms. 
+I am an incoming Computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} starting Fall 2021. My research interest broadly lies in the area of machine learning. I am interested in designing robust and efficient machine learning algorithms. 
  
-I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
+I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from IIT Gandhinagar. I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
 ## My Research
 
