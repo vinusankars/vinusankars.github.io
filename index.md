@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} starting Fall 2021. My research interest broadly lies in the area of machine learning. I am interested in designing robust and efficient machine learning algorithms. 
+I am a Computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. My research interest broadly lies in the area of machine learning. I am interested in designing robust and efficient machine learning algorithms. 
  
 I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
@@ -31,15 +31,16 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
+**[Aug 2021]** Excited to join UMD CS for my PhD.<br>
 **[Jun 2021]** Curriculum learning work accepted (spotlight) at SubSetML, ICML 2021.<br>
 **[Feb 2021]** Curriculum learning work preprint now available on arXiv.<br>
 **[Feb 2021]** Reviewer for ICML 2021.<br>
-**[Sep 2020]** Received cash award for CS publication from IIT Gandhinagar.<br>
-**[Aug 2020]** Started working as JRF at IIT Gandhinagar.<br>
-**[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.<br>
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
+**[Sep 2020]** Received cash award for CS publication from IIT Gandhinagar.<br>
+**[Aug 2020]** Started working as JRF at IIT Gandhinagar.<br>
+**[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.<br>
 <b>[Sep 2019]</b> Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.<br>
 <b>[Sep 2019]</b> Work on Shallow RNN accepted at NeurIPS 2019.<br>
 <b>[May 2019]</b> Started working as undergraduate research fellow at Caltech.<br>
@@ -52,4 +53,4 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## Personal Stuff
 
-I come from the beautiful town [Kollam](https://en.wikipedia.org/wiki/Kollam){:target="_blank"} in Kerala. In my free time, I love to sing and play the ukulele. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
+I come from the beautiful town [Kollam](https://en.wikipedia.org/wiki/Kollam){:target="_blank"} in Kerala. In my free time, I love to sing and play the ukulele. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my musical covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
