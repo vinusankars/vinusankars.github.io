@@ -38,9 +38,9 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
-**[Sep 2020]** Received cash award for CS publication from IIT Gandhinagar.<br>
-**[Aug 2020]** Started working as JRF at IIT Gandhinagar.<br>
-**[Aug 2020]** Received the Director's Silver Medal and B.Tech in CSE.<br>
+<b>[Sep 2020]</b> Received cash award for CS publication from IIT Gandhinagar.<br>
+<b>[Aug 2020]</b> Started working as JRF at IIT Gandhinagar.<br>
+<b>[Aug 2020]</b> Received the Director's Silver Medal and B.Tech in CSE.<br>
 <b>[Sep 2019]</b> Special mention for poster at UGRC 2019 at IIT Gandhinagar for work at Caltech.<br>
 <b>[Sep 2019]</b> Work on Shallow RNN accepted at NeurIPS 2019.<br>
 <b>[May 2019]</b> Started working as undergraduate research fellow at Caltech.<br>
