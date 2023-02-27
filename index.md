@@ -4,11 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. My research interest broadly lies in the area of machine learning. I am interested in designing robust and efficient machine learning algorithms. 
+I am a II-year Computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. My research interest lies in the area of privacy and security in deep learning.
  
 I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
 ## My Research
+
+<details open>
+  <summary><b>2023</b></summary>
+<u>VS Sadasivan</u>, M Soltanolkotabi, S Feizi<br>
+CUDA: Convolution-based Unlearnable Datasets.<br>
+ <a href="#" target="_blank">[PDF]</a> CVPR 2023.<br><br>
+</details>
 
 <details open>
   <summary><b>2021</b></summary>
@@ -31,13 +38,16 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
+**[Feb 2023]** CUDA accepted at CPR 2023.<br>
+**[Nov 2022]** Reviewer for ICLR 2023.<br>
+**[Jul 2022]** Reviewer for NeurIPS 2022.<br>
 **[Aug 2021]** Excited to join UMD CS for my PhD.<br>
-**[Jun 2021]** Curriculum learning work accepted (spotlight) at SubSetML, ICML 2021.<br>
-**[Feb 2021]** Curriculum learning work preprint now available on arXiv.<br>
-**[Feb 2021]** Reviewer for ICML 2021.<br>
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
+<b>[Jun 2021]</b> Curriculum learning work accepted (spotlight) at SubSetML, ICML 2021.<br>
+<b>[Feb 2021]</b> Curriculum learning work preprint now available on arXiv.<br>
+<b>[Feb 2021]</b> Reviewer for ICML 2021.<br>
 <b>[Sep 2020]</b> Received cash award for CS publication from IIT Gandhinagar.<br>
 <b>[Aug 2020]</b> Started working as JRF at IIT Gandhinagar.<br>
 <b>[Aug 2020]</b> Received the Director's Silver Medal and B.Tech in CSE.<br>
