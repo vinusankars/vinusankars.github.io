@@ -14,7 +14,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   <summary><b>2023</b></summary>
 <u>VS Sadasivan</u>, M Soltanolkotabi, S Feizi<br>
 CUDA: Convolution-based Unlearnable Datasets.<br>
- <a href="#" target="_blank">[PDF]</a> CVPR 2023.<br><br>
+ <a href="#" target="_blank">[PDF]</a> IEEE/CVF CVPR 2023.<br><br>
 </details>
 
 <details open>
@@ -38,7 +38,7 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
-**[Feb 2023]** CUDA accepted at CPR 2023.<br>
+**[Feb 2023]** CUDA accepted at CVPR 2023.<br>
 **[Nov 2022]** Reviewer for ICLR 2023.<br>
 **[Jul 2022]** Reviewer for NeurIPS 2022.<br>
 **[Aug 2021]** Excited to join UMD CS for my PhD.<br>
