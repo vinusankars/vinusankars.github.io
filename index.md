@@ -14,7 +14,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   <summary><b>2023</b></summary>
 <u>VS Sadasivan</u>, M Soltanolkotabi, S Feizi<br>
 CUDA: Convolution-based Unlearnable Datasets.<br>
- <a href="#" target="_blank">[PDF]</a> IEEE/CVF CVPR 2023.<br><br>
+ <a href="https://arxiv.org/pdf/2303.04278.pdf" target="_blank">[PDF]</a> IEEE/CVF CVPR 2023.<br><br>
 </details>
 
 <details open>
@@ -38,6 +38,7 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
+**[March 2023]** CUDA is on arXiv.<br>
 **[Feb 2023]** CUDA accepted at CVPR 2023.<br>
 **[Nov 2022]** Reviewer for ICLR 2023.<br>
 **[Jul 2022]** Reviewer for NeurIPS 2022.<br>
