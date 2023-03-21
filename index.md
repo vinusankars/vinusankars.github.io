@@ -12,26 +12,30 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
 <details open>
   <summary><b>2023</b></summary>
-<u>VS Sadasivan</u>, M Soltanolkotabi, S Feizi<br>
-CUDA: Convolution-based Unlearnable Datasets.<br>
+Can AI-Generated Text be Reliably Detected?<br>
+ <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
+ <a href="https://arxiv.org/abs/2303.04278" target="_blank">[PDF]</a> Preprint March 2023.<br><br>
+ 
+ CUDA: Convolution-based Unlearnable Datasets.<br>
+ <u>VS Sadasivan</u>, M Soltanolkotabi, S Feizi<br>
  <a href="https://arxiv.org/abs/2303.04278" target="_blank">[PDF]</a> IEEE/CVF CVPR 2023.<br><br>
 </details>
 
 <details open>
   <summary><b>2021</b></summary>
-<u>VS Sadasivan</u>, A Dasgupta<br>
 Statistical measures for defining curriculum scoring function.<br>
+ <u>VS Sadasivan</u>, A Dasgupta<br>
  <a href="https://arxiv.org/abs/2103.00147" target="_blank">[PDF]</a> SubSetML Workshop @ ICML 2021 (Spotlight).<br><br>
 </details>
 
 <details open>
  <summary><b>2019</b></summary>
-D Dennis, DAE Acar, V Mandikal, <u>VS Sadasivan</u>, V Saligrama, HV Simhadri, P Jain<br>
 Shallow RNN: accurate time-series classification on resource constrained devices.<br>
+ D Dennis, DAE Acar, V Mandikal, <u>VS Sadasivan</u>, V Saligrama, HV Simhadri, P Jain<br>
 <a href="http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices.pdf" target="_blank">[PDF]</a> NeurIPS 2019.<br><br>
  
-<u>VS Sadasivan</u>, CS Seelamantula<br>
 High accuracy patch-level classification of wireless capsule endoscopy images using a convolutional neural network.<br>
+ <u>VS Sadasivan</u>, CS Seelamantula<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8759324/" target="_blank">[PDF]</a> IEEE ISBI 2019.<br><br>
 </details>
 <p/>
