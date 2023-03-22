@@ -14,7 +14,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   <summary><b>2023</b></summary>
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint March 2023.<br><br>
+ <a href="https://www.theregister.com/2023/03/21/detecting_ai_generated_text/" target="_blank">[Media Coverage]</a> <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint March 2023.<br><br>
  
  CUDA: Convolution-based Unlearnable Datasets.<br>
  <u>VS Sadasivan</u>, M Soltanolkotabi, S Feizi<br>
