@@ -42,7 +42,7 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
-**[Mar 2023]** My work on showing impossibility of AI-detectors is featured on The Register! :)
+**[Mar 2023]** My work on showing impossibility of AI-detectors is featured on The Register! :)<br>
 **[Mar 2023]** CUDA is on arXiv.<br>
 **[Feb 2023]** CUDA accepted at CVPR 2023.<br>
 **[Nov 2022]** Reviewer for ICLR 2023.<br>
