@@ -46,11 +46,12 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 **[Mar 2023]** CUDA is on arXiv.<br>
 **[Feb 2023]** CUDA accepted at CVPR 2023.<br>
 **[Nov 2022]** Reviewer for ICLR 2023.<br>
-**[Jul 2022]** Reviewer for NeurIPS 2022.<br>
-**[Aug 2021]** Excited to join UMD CS for my PhD.<br>
+
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
+<b>[Jul 2022]</b> Reviewer for NeurIPS 2022.<br>
+<b>[Aug 2021]</b> Excited to join UMD CS for my PhD.<br>
 <b>[Jun 2021]</b> Curriculum learning work accepted (spotlight) at SubSetML, ICML 2021.<br>
 <b>[Feb 2021]</b> Curriculum learning work preprint now available on arXiv.<br>
 <b>[Feb 2021]</b> Reviewer for ICML 2021.<br>
