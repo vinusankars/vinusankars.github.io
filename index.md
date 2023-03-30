@@ -15,7 +15,8 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
  <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint March 2023. Media coverage: <a href="https://www.theregister.com/2023/03/21/detecting_ai_generated_text/" target="_blank">[1]</a>
- <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">[2]</a>
+ <a href="https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/" target="_blank">[2]</a>
+ <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">[3]</a>
  <br><br>
  
  CUDA: Convolution-based Unlearnable Datasets.<br>
@@ -44,7 +45,8 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
-**[Mar 2023]** Our work on showing impossibility of AI-detectors is featured on The Register!<br>
+**[Mar 2023]** Our work on impossibility of AI-detectors is featured in New Scientist!<br>
+**[Mar 2023]** Our work on impossibility of AI-detectors is featured in The Register!<br>
 **[Mar 2023]** CUDA is on arXiv.<br>
 **[Feb 2023]** CUDA accepted at CVPR 2023.<br>
 **[Nov 2022]** Reviewer for ICLR 2023.<br>
