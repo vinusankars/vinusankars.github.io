@@ -14,9 +14,13 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   <summary><b>2023</b></summary>
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint March 2023. Media coverage: <a href="https://www.theregister.com/2023/03/21/detecting_ai_generated_text/" target="_blank">[1]</a>
- <a href="https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/" target="_blank">[2]</a>
- <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">[3]</a>
+ <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint March 2023. Media coverage: 
+ [<a href="https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/" target="_blank">1</a>,
+ <a href="https://www.theregister.com/2023/03/21/detecting_ai_generated_text/" target="_blank">2</a>,
+ <a href="https://www.theregister.com/2023/05/17/university_chatgpt_grades/" target="_blank">3</a>,
+ <a href="https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/" target="_blank">4</a>,
+ <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">5</a>,
+ <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">6</a>]
  <br><br>
  
  CUDA: Convolution-based Unlearnable Datasets.<br>
