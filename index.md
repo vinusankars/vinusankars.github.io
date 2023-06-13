@@ -23,6 +23,12 @@ Can AI-Generated Text be Reliably Detected?<br>
  <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">6</a>]
  <br><br>
  
+ 
+Provable Robustness for Streaming Models with a Sliding Window.<br>
+ A Kumar, <u>VS Sadasivan</u>, S Feizi<br>
+ <a href="https://arxiv.org/abs/2303.04278" target="_blank">[PDF]</a> Preprint 2023.<br><br>
+
+ 
  CUDA: Convolution-based Unlearnable Datasets.<br>
  <u>VS Sadasivan</u>, M Soltanolkotabi, S Feizi<br>
  <a href="https://arxiv.org/abs/2303.04278" target="_blank">[PDF]</a> IEEE/CVF CVPR 2023.<br><br>
