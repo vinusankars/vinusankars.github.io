@@ -26,7 +26,7 @@ Can AI-Generated Text be Reliably Detected?<br>
  
 Provable Robustness for Streaming Models with a Sliding Window.<br>
  A Kumar, <u>VS Sadasivan</u>, S Feizi<br>
- <a href="https://arxiv.org/abs/2303.04278" target="_blank">[PDF]</a> Preprint 2023.<br><br>
+ <a href="https://arxiv.org/abs/2303.16308" target="_blank">[PDF]</a> Preprint March 2023.<br><br>
 
  
  CUDA: Convolution-based Unlearnable Datasets.<br>
