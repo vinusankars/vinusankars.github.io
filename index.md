@@ -55,16 +55,19 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
+**[Jun 2023]** I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
+**[Jun 2023]** Our work on impossibility of AI-detectors is featured in Washington Post!<br>
 **[Apr 2023]** Recognized as <a href="https://blog.iclr.cc/tag/awards/">notable reviewer</a> at ICLR 2023.<br>
 **[Mar 2023]** Our work on impossibility of AI-detectors is featured in New Scientist!<br>
 **[Mar 2023]** Our work on impossibility of AI-detectors is featured in The Register!<br>
 **[Mar 2023]** CUDA is on arXiv.<br>
-**[Feb 2023]** CUDA accepted at CVPR 2023.<br>
-**[Nov 2022]** Reviewer for ICLR 2023.<br>
+
 
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
+<b>[Feb 2023]</b> CUDA accepted at CVPR 2023.<br>
+<b>[Nov 2022]</b> Reviewer for ICLR 2023.<br>
 <b>[Jul 2022]</b> Reviewer for NeurIPS 2022.<br>
 <b>[Aug 2021]</b> Excited to join UMD CS for my PhD.<br>
 <b>[Jun 2021]</b> Curriculum learning work accepted (spotlight) at SubSetML, ICML 2021.<br>
