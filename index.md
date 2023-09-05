@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a II-year Computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. My research interest lies in the area of privacy and security in deep learning.
+I am a third-year computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. My research interest lies in the area of Security and Privacy in AI. I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
  
 I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
