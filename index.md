@@ -14,7 +14,7 @@ I received the prestigious <span style="color:red">Director's Silver Medal</span
   <summary><b>2023</b></summary>
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint March 2023.
+ <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint Mar 2023.
  <span style="color:red">Media coverage</span>: 
  [<a href="https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/" target="_blank">Washington Post</a>,
  <a href="https://www.wired.com/story/ai-detection-chat-gpt-college-students/" target="_blank">Wired</a>,
