@@ -14,19 +14,30 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   <summary><b>2023</b></summary>
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint March 2023. Media coverage: 
- [<a href="https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/" target="_blank">1</a>,
- <a href="https://www.theregister.com/2023/03/21/detecting_ai_generated_text/" target="_blank">2</a>,
- <a href="https://www.theregister.com/2023/05/17/university_chatgpt_grades/" target="_blank">3</a>,
- <a href="https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/" target="_blank">4</a>,
- <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">5</a>,
- <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">6</a>]
+ <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint March 2023. <br>
+ Media coverage: 
+ [<a href="https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/" target="_blank">Washington Post</a>,
+ <a href="https://www.wired.com/story/ai-detection-chat-gpt-college-students/" target="_blank">Wired</a>,
+ <a href="https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/" target="_blank">New Scientist</a>,
+ <a href="https://www.theregister.com/2023/03/21/detecting_ai_generated_text/" target="_blank">The Register [1]</a>,
+ <a href="https://www.theregister.com/2023/05/17/university_chatgpt_grades/" target="_blank">[2]</a>,
+ <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">TechSpot</a>,
+ <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">UMD Science</a>]
+ <br><br>
+
+
+Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
+ M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
+ <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> Preprint Sep 2023. <br>
+ Media coverage: 
+ [<a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/" target="_blank">Wired</a>,
+ <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>]
  <br><br>
  
  
 Provable Robustness for Streaming Models with a Sliding Window.<br>
  A Kumar, <u>VS Sadasivan</u>, S Feizi<br>
- <a href="https://arxiv.org/abs/2303.16308" target="_blank">[PDF]</a> Preprint March 2023.<br><br>
+ <a href="https://arxiv.org/abs/2303.16308" target="_blank">[PDF]</a> Preprint Mar 2023.<br><br>
 
  
  CUDA: Convolution-based Unlearnable Datasets.<br>
@@ -55,17 +66,18 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
+**[Oct 2023]** Our work on limitations of AI-image detectors is featured in Wired!<br>
 **[Jun 2023]** I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
-**[Jun 2023]** Our work on impossibility of AI-detectors is featured in Washington Post!<br>
+**[Jun 2023]** Our work on hardness of AI-detectors is featured in Washington Post!<br>
 **[Apr 2023]** Recognized as <a href="https://blog.iclr.cc/tag/awards/">notable reviewer</a> at ICLR 2023.<br>
-**[Mar 2023]** Our work on impossibility of AI-detectors is featured in New Scientist!<br>
-**[Mar 2023]** Our work on impossibility of AI-detectors is featured in The Register!<br>
-**[Mar 2023]** CUDA is on arXiv.<br>
+**[Mar 2023]** Our work on hardness of AI-detectors is featured in New Scientist!<br>
 
 
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
+<b>[Mar 2023]</b> Our work on hardness of AI-detectors is featured in The Register!<br>
+<b>[Mar 2023]</b> CUDA is on arXiv.<br>
 <b>[Feb 2023]</b> CUDA accepted at CVPR 2023.<br>
 <b>[Nov 2022]</b> Reviewer for ICLR 2023.<br>
 <b>[Jul 2022]</b> Reviewer for NeurIPS 2022.<br>
@@ -88,4 +100,4 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## Personal Stuff
 
-I come from the beautiful town [Kollam](https://en.wikipedia.org/wiki/Kollam){:target="_blank"} in Kerala. In my free time, I love to sing and play the ukulele. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my musical covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
+I come from the beautiful town [Kollam](https://en.wikipedia.org/wiki/Kollam){:target="_blank"} in Kerala. In my free time, I love to sing and play the ukulele and guitar. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my musical covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
