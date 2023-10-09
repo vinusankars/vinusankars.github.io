@@ -25,6 +25,10 @@ Can AI-Generated Text be Reliably Detected?<br>
  <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">UMD Science</a>]
  <br><br>
 
+Exploring Geometry of Blind Spots in Vision Models<br>
+S Balasubramanian*, G Sriramanan*, <u>VS Sadasivan</u>, S Feizi<br>
+ <a href="#" target="_blank">[PDF]</a> NeurIPS 2023 (<span style="color:red">Spotlight</span>).<br><br>
+
 
 Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
  M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
