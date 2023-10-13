@@ -4,9 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a third-year computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. My research interest lies in the area of Security and Privacy in AI. I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
+I am a third-year computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
+My research interest lies in the area of Security and Privacy in AI. Recently, I have been working on the hardness of AI-content detection. I like to think about AI privacy problems that span differential privacy, machine unlearning, unlearnable datasets, and privacy attacks.
  
-I received the prestigious <span style="color:red">Director's Silver Medal</span> and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
+I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
 ## My Research
 
@@ -14,8 +15,8 @@ I received the prestigious <span style="color:red">Director's Silver Medal</span
   <summary><b>2023</b></summary>
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint Mar 2023.
- <span style="color:red">Media coverage</span>: 
+ <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint Mar 2023.<br/>
+ <span style="color:#FF6347">Media coverage</span>: 
  [<a href="https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/" target="_blank">Washington Post</a>,
  <a href="https://www.wired.com/story/ai-detection-chat-gpt-college-students/" target="_blank">Wired</a>,
  <a href="https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/" target="_blank">New Scientist</a>,
@@ -27,13 +28,13 @@ Can AI-Generated Text be Reliably Detected?<br>
 
 Exploring Geometry of Blind Spots in Vision Models<br>
 S Balasubramanian*, G Sriramanan*, <u>VS Sadasivan</u>, S Feizi<br>
- <a href="#" target="_blank">[PDF]</a> NeurIPS 2023 (<span style="color:red">Spotlight</span>).<br><br>
+ <a href="#" target="_blank">[PDF]</a> NeurIPS 2023 (<span style="color:#FF6347">Spotlight</span>).<br><br>
 
 
 Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
  M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> Preprint Sep 2023.
- <span style="color:red">Media coverage</span>: 
+ <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> Preprint Sep 2023.<br/>
+ <span style="color:#FF6347">Media coverage</span>: 
  [<a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/" target="_blank">Wired</a>,
  <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>]
  <br><br>
@@ -53,7 +54,7 @@ Provable Robustness for Streaming Models with a Sliding Window.<br>
   <summary><b>2021</b></summary>
 Statistical measures for defining curriculum scoring function.<br>
  <u>VS Sadasivan</u>, A Dasgupta<br>
- <a href="https://arxiv.org/abs/2103.00147" target="_blank">[PDF]</a> SubSetML Workshop @ ICML 2021 (<span style="color:red">Spotlight</span>).<br><br>
+ <a href="https://arxiv.org/abs/2103.00147" target="_blank">[PDF]</a> SubSetML Workshop @ ICML 2021 (<span style="color:#FF6347">Spotlight</span>).<br><br>
 </details>
 
 <details open>
