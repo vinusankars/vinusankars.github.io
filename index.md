@@ -71,6 +71,7 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
+**[Nov 2023]** Gave a research talk at Google Research on our work on AI-text detection.<br> 
 **[Oct 2023]** Our work on limitations of AI-image detectors is featured in Wired!<br>
 **[Jun 2023]** I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
 **[Jun 2023]** Our work on hardness of AI-detectors is featured in Washington Post!<br>
