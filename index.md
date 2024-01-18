@@ -83,7 +83,7 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 **[Nov 2023]** Gave a research talk at Google Research on our work on AI-text detection.<br> 
 **[Oct 2023]** Our work on limitations of AI-image detectors is featured in Wired!<br>
 **[Jun 2023]** I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
-**[Jun 2023]** Interviewed by <a href="https://www.newscientist.com/article/2378706-ais-will-become-useless-if-they-keep-learning-from-other-ais/">New Scientist</a> for a work on <a href="https://arxiv.org/abs/2305.17493">model collapse</a>.
+**[Jun 2023]** Interviewed by <a href="https://www.newscientist.com/article/2378706-ais-will-become-useless-if-they-keep-learning-from-other-ais/">New Scientist</a> for a work on <a href="https://arxiv.org/abs/2305.17493">model collapse</a>.<br>
 **[Jun 2023]** Our work on hardness of AI-detectors is featured in Washington Post!<br>
 **[Apr 2023]** Recognized as <a href="https://blog.iclr.cc/tag/awards/">notable reviewer</a> at ICLR 2023.<br>
 **[Mar 2023]** Our work on hardness of AI-detectors is featured in New Scientist!<br>
