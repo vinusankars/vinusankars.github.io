@@ -22,8 +22,8 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
  <a href="https://www.bloomberg.com/news/newsletters/2023-11-06/biden-ai-executive-order-shows-urgency-of-deepfakes?cmpid=BBD110623_TECH&utm_medium=email&utm_source=newsletter&utm_term=231106&utm_campaign=tech" target="_blank">Bloomberg</a>,
  <a href="https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order" target="_blank">The Verge</a>,
  <a href="https://www.technologyreview.com/2023/11/06/1082996/the-inside-scoop-on-watermarking-and-content-authentication/" target="_blank">MIT Technology Review</a>,
- <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>
- <a href=" https://www.cs.umd.edu/article/2023/11/watermarks-aren%E2%80%99t-silver-bullet-ai-misinformation" target="_blank">UMD CS</a>
+ <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>,
+ <a href="https://www.cs.umd.edu/article/2023/11/watermarks-aren%E2%80%99t-silver-bullet-ai-misinformation" target="_blank">UMD CS</a>
  <br><br>
 
 </details>
