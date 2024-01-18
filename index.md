@@ -12,6 +12,23 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 ## My Research
 
 <details open>
+  <summary><b>2024</b></summary>
+
+ Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
+ M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
+ <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> ICLR 2024.<br/>
+ <span style="color:#F75D59">Media coverage</span>: 
+ <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/" target="_blank">Wired</a>,
+ <a href="https://www.bloomberg.com/news/newsletters/2023-11-06/biden-ai-executive-order-shows-urgency-of-deepfakes?cmpid=BBD110623_TECH&utm_medium=email&utm_source=newsletter&utm_term=231106&utm_campaign=tech" target="_blank">Bloomberg</a>,
+ <a href="https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order" target="_blank">The Verge</a>,
+ <a href="https://www.technologyreview.com/2023/11/06/1082996/the-inside-scoop-on-watermarking-and-content-authentication/" target="_blank">MIT Technology Review</a>,
+ <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>
+ <a href=" https://www.cs.umd.edu/article/2023/11/watermarks-aren%E2%80%99t-silver-bullet-ai-misinformation" target="_blank">UMD CS</a>
+ <br><br>
+
+</details>
+
+<details open>
   <summary><b>2023</b></summary>
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
@@ -24,17 +41,6 @@ Can AI-Generated Text be Reliably Detected?<br>
  <a href="https://www.theregister.com/2023/05/17/university_chatgpt_grades/" target="_blank">[2]</a>,
  <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">TechSpot</a>,
  <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">UMD Science</a>
- <br><br>
-
- Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
- M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> ICLR 2024.<br/>
- <span style="color:#F75D59">Media coverage</span>: 
- <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/" target="_blank">Wired</a>,
- <a href="https://www.bloomberg.com/news/newsletters/2023-11-06/biden-ai-executive-order-shows-urgency-of-deepfakes?cmpid=BBD110623_TECH&utm_medium=email&utm_source=newsletter&utm_term=231106&utm_campaign=tech" target="_blank">Bloomberg</a>,
- <a href="https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order" target="_blank">The Verge</a>,
- <a href="https://www.technologyreview.com/2023/11/06/1082996/the-inside-scoop-on-watermarking-and-content-authentication/" target="_blank">MIT Technology Review</a>,
- <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>
  <br><br>
  
 
