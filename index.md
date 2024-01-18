@@ -26,18 +26,21 @@ Can AI-Generated Text be Reliably Detected?<br>
  <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">UMD Science</a>
  <br><br>
 
+ Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
+ M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
+ <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> ICLR 2024.<br/>
+ <span style="color:#F75D59">Media coverage</span>: 
+ <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/" target="_blank">Wired</a>,
+ <a href="https://www.bloomberg.com/news/newsletters/2023-11-06/biden-ai-executive-order-shows-urgency-of-deepfakes?cmpid=BBD110623_TECH&utm_medium=email&utm_source=newsletter&utm_term=231106&utm_campaign=tech" target="_blank">Bloomberg</a>,
+ <a href="https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order" target="_blank">The Verge</a>,
+ <a href="https://www.technologyreview.com/2023/11/06/1082996/the-inside-scoop-on-watermarking-and-content-authentication/" target="_blank">MIT Technology Review</a>,
+ <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>
+ <br><br>
+ 
+
 Exploring Geometry of Blind Spots in Vision Models<br>
 S Balasubramanian*, G Sriramanan*, <u>VS Sadasivan</u>, S Feizi<br>
  <a href="#" target="_blank">[PDF]</a> NeurIPS 2023 (<span style="color:#F75D59">Spotlight</span>).<br><br>
-
-
-Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
- M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> Preprint Sep 2023.<br/>
- <span style="color:#F75D59">Media coverage</span>: 
- <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/" target="_blank">Wired</a>,
- <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>
- <br><br>
  
  
 Provable Robustness for Streaming Models with a Sliding Window.<br>
