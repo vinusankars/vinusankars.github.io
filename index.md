@@ -46,7 +46,7 @@ Can AI-Generated Text be Reliably Detected?<br>
 
 Exploring Geometry of Blind Spots in Vision Models<br>
 S Balasubramanian*, G Sriramanan*, <u>VS Sadasivan</u>, S Feizi<br>
- <a href="#" target="_blank">[PDF]</a> NeurIPS 2023 (<span style="color:#F75D59">Spotlight</span>).<br><br>
+ <a href="https://arxiv.org/abs/2310.19889" target="_blank">[PDF]</a> NeurIPS 2023 (<span style="color:#F75D59">Spotlight</span>).<br><br>
  
  
 Provable Robustness for Streaming Models with a Sliding Window.<br>
