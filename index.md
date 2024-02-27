@@ -16,7 +16,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
   Fast Adversarial Attacks on Language Models In One GPU Minute<br>
   <u>VS Sadasivan</u>, S Saha*, G Sriramanan*, P Kattakinda, A Chegini, S Feizi<br>
-  <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint Feb 2024.<br/>
+  <a href="https://arxiv.org/abs/2402.15570" target="_blank">[PDF]</a> Preprint Feb 2024.<br/>
   <br>
 
  Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
@@ -28,7 +28,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
  <a href="https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order" target="_blank">The Verge</a>,
  <a href="https://www.technologyreview.com/2023/11/06/1082996/the-inside-scoop-on-watermarking-and-content-authentication/" target="_blank">MIT Technology Review</a>,
  <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/" target="_blank">The Register</a>,
- <a href="https://www.cs.umd.edu/article/2023/11/watermarks-aren%E2%80%99t-silver-bullet-ai-misinformation" target="_blank">UMD CS</a>
+ <a href="https://www.cs.umd.edu/article/2023/11/watermarks-aren%E2%80%99t-silver-bullet-ai-misinformation" target="_blank">UMD&nbsp;CS</a>
  <br><br>
 
 </details>
