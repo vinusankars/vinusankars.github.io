@@ -14,6 +14,11 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 <details open>
   <summary><b>2024</b></summary>
 
+  Fast Adversarial Attacks on Language Models In One GPU Minute<br>
+  <u>VS Sadasivan</u>, S Saha, G Sriramanan, P Kattakinda, A Chegini, S Feizi<br>
+  <a href="[https://arxiv.org/abs/2303.11156](https://arxiv.org/abs/2402.15570)" target="_blank">[PDF]</a> Preprint Feb 2024.<br/>
+  <br>
+
  Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
  M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
  <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> ICLR 2024.<br/>
