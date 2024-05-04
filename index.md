@@ -16,8 +16,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
   Fast Adversarial Attacks on Language Models In One GPU Minute<br>
   <u>VS Sadasivan</u>, S Saha*, G Sriramanan*, P Kattakinda, A Chegini, S Feizi<br>
-  <a href="https://arxiv.org/abs/2402.15570" target="_blank">[PDF]</a> ICML 2024.<br/>
-  <!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <a href="https://arxiv.org/abs/2402.15570" target="_blank">[PDF]</a> ICML 2024.<br/>  <!-- <span style="color:#F75D59">Media coverage</span>: -->
   Media 📰📢: 
   <a href="https://www.theregister.com/2024/02/28/beast_llm_adversarial_prompt_injection_attack/" target="_blank">The Register</a>
   <br>  <!-- <span style="color:#F75D59">Talks</span>: -->
