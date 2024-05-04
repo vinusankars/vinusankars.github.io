@@ -16,15 +16,20 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 
   Fast Adversarial Attacks on Language Models In One GPU Minute<br>
   <u>VS Sadasivan</u>, S Saha*, G Sriramanan*, P Kattakinda, A Chegini, S Feizi<br>
-  <a href="https://arxiv.org/abs/2402.15570" target="_blank">[PDF]</a> Preprint Feb 2024.<br/>
-  <span style="color:#F75D59">Media coverage</span>: 
+  <a href="https://arxiv.org/abs/2402.15570" target="_blank">[PDF]</a> ICML 2024.<br/>
+  <!-- <span style="color:#F75D59">Media coverage</span>: -->
+  Media 📰📢: 
   <a href="https://www.theregister.com/2024/02/28/beast_llm_adversarial_prompt_injection_attack/" target="_blank">The Register</a>
+  <br>
+  <!-- <span style="color:#F75D59">Talks</span>: -->
+  Talks 🗣️🎤: 
+  Amazon AWS Responsible AI
   <br><br>
 
  Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
  M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
  <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> ICLR 2024.<br/>
- <span style="color:#F75D59">Media coverage</span>: 
+ Media 📰📢: 
  <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/" target="_blank">Wired</a>,
  <a href="https://www.bloomberg.com/news/newsletters/2023-11-06/biden-ai-executive-order-shows-urgency-of-deepfakes?cmpid=BBD110623_TECH&utm_medium=email&utm_source=newsletter&utm_term=231106&utm_campaign=tech" target="_blank">Bloomberg</a>,
  <a href="https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order" target="_blank">The Verge</a>,
@@ -40,7 +45,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
  <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint Mar 2023.<br/>
- <span style="color:#F75D59">Media coverage</span>: 
+ Media 📰📢: 
  <a href="https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/" target="_blank">Washington Post</a>,
  <a href="https://www.wired.com/story/ai-detection-chat-gpt-college-students/" target="_blank">Wired</a>,
  <a href="https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/" target="_blank">New Scientist</a>,
@@ -48,6 +53,9 @@ Can AI-Generated Text be Reliably Detected?<br>
  <a href="https://www.theregister.com/2023/05/17/university_chatgpt_grades/" target="_blank">[2]</a>,
  <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">TechSpot</a>,
  <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">UMD Science</a>
+ <br>
+ Talks 🗣️🎤: 
+ US Securities and Exchange Commission, Google Research
  <br><br>
  
 
@@ -87,10 +95,15 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## News
 
+**[May 2024]** Joining Meta FAIR, Paris as a Research Scientist Intern.<br>
+**[May 2024]** BEAST is accepted to ICML 2024.<br>
+**[May 2024]** Invited talk on AI content detection at US Securities & Exchange Commission!<br>
+**[Apr 2024]** Invited talk on BEAST (jailbreaking) at Amazon AWS Responsible AI team.<br>
+**[Feb 2024]** Interviewed by IEEE Spectrum for expert opinion on AI-text detection.<br>
 **[Nov 2023]** Gave a research talk at Google Research on our work on AI-text detection.<br> 
 **[Oct 2023]** Our work on limitations of AI-image detectors is featured in Wired!<br>
 **[Jun 2023]** I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
-**[Jun 2023]** Interviewed by <a href="https://www.newscientist.com/article/2378706-ais-will-become-useless-if-they-keep-learning-from-other-ais/">New Scientist</a> for a work on <a href="https://arxiv.org/abs/2305.17493">model collapse</a>.<br>
+**[Jun 2023]** Interviewed by <a href="https://www.newscientist.com/article/2378706-ais-will-become-useless-if-they-keep-learning-from-other-ais/">New Scientist</a> for expert opinion on <a href="https://arxiv.org/abs/2305.17493">model collapse</a>.<br>
 **[Jun 2023]** Our work on hardness of AI-detectors is featured in Washington Post!<br>
 **[Apr 2023]** Recognized as <a href="https://blog.iclr.cc/tag/awards/">notable reviewer</a> at ICLR 2023.<br>
 **[Mar 2023]** Our work on hardness of AI-detectors is featured in New Scientist!<br>
