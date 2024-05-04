@@ -50,7 +50,7 @@ Can AI-Generated Text be Reliably Detected?<br>
  <a href="https://www.theregister.com/2023/03/21/detecting_ai_generated_text/" target="_blank">The Register [1]</a>,
  <a href="https://www.theregister.com/2023/05/17/university_chatgpt_grades/" target="_blank">[2]</a>,
  <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">TechSpot</a>,
- <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">UMD Science</a>
+ <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">UMD&nbsp;Science</a>
  <br>
  Talks 🗣️🎤: 
  US Securities and Exchange Commission, Google Research
