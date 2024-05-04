@@ -17,17 +17,17 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
   Fast Adversarial Attacks on Language Models In One GPU Minute<br>
   <u>VS Sadasivan</u>, S Saha*, G Sriramanan*, P Kattakinda, A Chegini, S Feizi<br>
   <a href="https://arxiv.org/abs/2402.15570" target="_blank">[PDF]</a> ICML 2024.<br/>  <!-- <span style="color:#F75D59">Media coverage</span>: -->
-  Media 📰📢: 
+  Media 📢: 
   <a href="https://www.theregister.com/2024/02/28/beast_llm_adversarial_prompt_injection_attack/" target="_blank">The Register</a>
   <br>  <!-- <span style="color:#F75D59">Talks</span>: -->
-  Talks 🗣️🎤: 
+  Talks 🎤: 
   Amazon AWS Responsible AI
   <br><br>
 
  Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks<br>
  M Saberi, <u>VS Sadasivan</u>, K Rezaei, A Kumar, A Chegini, W Wang, S Feizi<br>
  <a href="https://arxiv.org/abs/2310.00076" target="_blank">[PDF]</a> ICLR 2024.<br/>
- Media 📰📢: 
+ Media 📢: 
  <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/" target="_blank">Wired</a>,
  <a href="https://www.bloomberg.com/news/newsletters/2023-11-06/biden-ai-executive-order-shows-urgency-of-deepfakes?cmpid=BBD110623_TECH&utm_medium=email&utm_source=newsletter&utm_term=231106&utm_campaign=tech" target="_blank">Bloomberg</a>,
  <a href="https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order" target="_blank">The Verge</a>,
@@ -43,7 +43,7 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
  <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint Mar 2023.<br/>
- Media 📰📢: 
+ Media 📢: 
  <a href="https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/" target="_blank">Washington Post</a>,
  <a href="https://www.wired.com/story/ai-detection-chat-gpt-college-students/" target="_blank">Wired</a>,
  <a href="https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/" target="_blank">New Scientist</a>,
@@ -52,7 +52,7 @@ Can AI-Generated Text be Reliably Detected?<br>
  <a href="https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html" target="_blank">TechSpot</a>,
  <a href="https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable" target="_blank">UMD&nbsp;Science</a>
  <br>
- Talks 🗣️🎤: 
+ Talks 🎤: 
  US Securities and Exchange Commission, Google Research
  <br><br>
  
