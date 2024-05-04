@@ -97,7 +97,7 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 **[May 2024]** BEAST is accepted to ICML 2024.<br>
 **[May 2024]** Invited talk on AI content detection at US Securities & Exchange Commission!<br>
 **[Apr 2024]** Invited talk on BEAST (jailbreaking) at Amazon AWS Responsible AI team.<br>
-**[Feb 2024]** Interviewed by IEEE Spectrum for expert opinion on AI-text detection.<br>
+**[Feb 2024]** Interviewed by <a href="https://spectrum.ieee.org/ai-detection">IEEE Spectrum</a> for expert opinion on AI-text detection.<br>
 **[Nov 2023]** Gave a research talk at Google Research on our work on AI-text detection.<br> 
 **[Oct 2023]** Our work on limitations of AI-image detectors is featured in Wired!<br>
 **[Jun 2023]** I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
