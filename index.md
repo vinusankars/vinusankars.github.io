@@ -56,6 +56,16 @@ I received the prestigious Director's Silver Medal and my Bachelor's degree in C
 <details open>
   <summary><b>2024</b></summary>
 
+  LLM-Check: Investigating Detection of Hallucinations in Large Language Models<br>
+  G Sriramanan, S Bharti, <u>VS Sadasivan</u>, S Saha, P Kattakinda, S Feizi<br>
+  <a href="#" target="_blank">[PDF]</a> NeurIPS 2024.<br/>  <!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <br><br>
+
+  DREW: Towards Robust Data Provenance by Leveraging Error-Controlled Watermarking<br>
+  M Saberi, <u>VS Sadasivan</u>, A Zarei, H Mahdavifar, S Feizi<br>
+  <a href="https://arxiv.org/abs/2406.02836" target="_blank">[PDF]</a> Preprint Jun 2024.<br/>  <!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <br><br>
+
   Fast Adversarial Attacks on Language Models In One GPU Minute<br>
   <u>VS Sadasivan</u>, S Saha*, G Sriramanan*, P Kattakinda, A Chegini, S Feizi<br>
   <a href="https://arxiv.org/abs/2402.15570" target="_blank">[PDF]</a> ICML 2024.<br/>  <!-- <span style="color:#F75D59">Media coverage</span>: -->
