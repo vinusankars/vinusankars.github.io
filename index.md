@@ -4,30 +4,31 @@ layout: homepage
 
 ## About Me
 
-I am a third-year computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
-My research interest lies in the area of Security and Privacy in AI. Recently, I have been working on the hardness of AI-content detection. I also like to think about AI privacy problems that span differential privacy, machine unlearning, unlearnable datasets, and privacy attacks.
+I am a fourth-year computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
+My research interest lies in the area of Security and Privacy in AI. Recently, I have been working on AI-content detectability and adversarial robustness of GenAI models. I also like to think about AI privacy problems that span differential privacy, machine unlearning, unlearnable datasets, and privacy attacks.
  
 I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
 
 ## News
 
+**[Sep 2024]** LLM-Check is accepted to NeurIPS 2024.<br>
+**[Sep 2024]** Joining Google Research, Mountain View as a Full-time Student Researcher.<br>
 **[May 2024]** Joining Meta FAIR, Paris as a Research Scientist Intern.<br>
 **[May 2024]** BEAST is accepted to ICML 2024.<br>
 **[May 2024]** Invited talk on AI content detection at US Securities & Exchange Commission!<br>
 **[Apr 2024]** Invited talk on BEAST (jailbreaking) at Amazon AWS Responsible AI team.<br>
 **[Feb 2024]** Interviewed by <a href="https://spectrum.ieee.org/ai-detection">IEEE Spectrum</a> for expert opinion on AI-text detection.<br>
 **[Nov 2023]** Gave a research talk at Google Research on our work on AI-text detection.<br> 
-**[Oct 2023]** Our work on limitations of AI-image detectors is featured in Wired!<br>
-**[Jun 2023]** I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
-**[Jun 2023]** Interviewed by <a href="https://www.newscientist.com/article/2378706-ais-will-become-useless-if-they-keep-learning-from-other-ais/">New Scientist</a> for expert opinion on <a href="https://arxiv.org/abs/2305.17493">model collapse</a>.<br>
-**[Jun 2023]** Our work on hardness of AI-detectors is featured in Washington Post!<br>
-**[Apr 2023]** Recognized as <a href="https://blog.iclr.cc/tag/awards/">notable reviewer</a> at ICLR 2023.<br>
-**[Mar 2023]** Our work on hardness of AI-detectors is featured in New Scientist!<br>
-
 
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
+<b></b>[Oct 2023]</b> Our work on limitations of AI-image detectors is featured in Wired!<br>
+<b>[Jun 2023]</b> I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
+<b>[Jun 2023]</b> Interviewed by <a href="https://www.newscientist.com/article/2378706-ais-will-become-useless-if-they-keep-learning-from-other-ais/">New Scientist</a> for expert opinion on <a href="https://arxiv.org/abs/2305.17493">model collapse</a>.<br>
+<b>[Jun 2023]</b> Our work on hardness of AI-detectors is featured in Washington Post!<br>
+<b>[Apr 2023]</b> Recognized as <a href="https://blog.iclr.cc/tag/awards/">notable reviewer</a> at ICLR 2023.<br>
+<b>[Mar 2023]</b> Our work on hardness of AI-detectors is featured in New Scientist!<br>
 <b>[Mar 2023]</b> Our work on hardness of AI-detectors is featured in The Register!<br>
 <b>[Mar 2023]</b> CUDA is on arXiv.<br>
 <b>[Feb 2023]</b> CUDA accepted at CVPR 2023.<br>
