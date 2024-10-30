@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<span style="color:red">I am on the job market and actively looking for research positions. Please reach out to me about potential opportunities in your team.</span>.
+<span style="color:red">I am on the job market and actively looking for research positions. Please reach out to me about potential opportunities in your team.</span>
 
 I am a final year computer Science PhD candidate at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} advised by [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. 
 I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
