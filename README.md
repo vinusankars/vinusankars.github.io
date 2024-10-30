@@ -1,3 +1,3 @@
 # Vinu's Homepage
 
-Vinu Sankar Sadasivan is a CS PhD student at University of Maryland interested in Security and Privacy in AI.
+Vinu Sankar Sadasivan is a CS PhD candidate at The University of Maryland researching on Security and Privacy in AI.
