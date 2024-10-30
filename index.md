@@ -21,6 +21,8 @@ Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc.
 
 ## News
 
+**[Nov 2024]** Invited for a talk at UK AI Safety Institute.<br>
+**[Nov 2024]** Invited for MLOps Podcast.<br>
 **[Sep 2024]** LLM-Check is accepted to NeurIPS 2024.<br>
 **[Sep 2024]** Joining Google DeepMind, Mountain View as a Full-time Student Researcher.<br>
 **[May 2024]** Joining Meta FAIR, Paris as a Research Scientist Intern.<br>
