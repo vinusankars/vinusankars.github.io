@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-[[CV](https://vinusankars.github.io/assets/docs/Curriculum_Vitae_Public.pdf){:target="_blank"}]~[[Google Scholar](https://scholar.google.com/citations?user=y1IKIw0AAAAJ&hl=en&oi=ao){:target="_blank"}]~[[Twitter](https://twitter.com/imVinusankars){:target="_blank"}]~[[LinkedIn](https://www.linkedin.com/in/vinusankars){:target="_blank"}] 
+[[CV](https://vinusankars.github.io/assets/docs/Curriculum_Vitae_Public.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=y1IKIw0AAAAJ&hl=en&oi=ao){:target="_blank"}] [[Twitter](https://twitter.com/imVinusankars){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/vinusankars){:target="_blank"}] 
 
 <span style="color:red">I am on the job market and actively looking for research positions. Please reach out to me about potential opportunities in your team.</span>
 
