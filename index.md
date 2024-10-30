@@ -4,15 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year computer Science PhD student at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} working with [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
-My research interest lies in the area of Security and Privacy in AI. Recently, I have been working on AI-content detectability and adversarial robustness of GenAI models. I also like to think about AI privacy problems that span differential privacy, machine unlearning, unlearnable datasets, and privacy attacks.
+<span style="color:red">I am on the job market and actively looking for research positions. Please reach out to me about potential opportunities in your team.</span>.
+
+I am a final year computer Science PhD candidate at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} advised by [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. 
+I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
+My research interest broadly lies in the area of Security and Privacy in AI. 
+Currently, I am working as a full-time Student Researcher at Google DeepMind on jailbreaking multimodal AI models.
+Previously, I worked as a Research Scientist intern at Meta FAIR in Paris on AI watermarking.
+My PhD thesis at UMD majorly focuses on AI robustness, detectability, and user privacy.
  
-I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. Previously, I had interned at Caltech, Microsoft Research India, and IISc. 
+I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. 
+I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. 
+Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc. 
 
 ## News
 
 **[Sep 2024]** LLM-Check is accepted to NeurIPS 2024.<br>
-**[Sep 2024]** Joining Google Research, Mountain View as a Full-time Student Researcher.<br>
+**[Sep 2024]** Joining Google DeepMind, Mountain View as a Full-time Student Researcher.<br>
 **[May 2024]** Joining Meta FAIR, Paris as a Research Scientist Intern.<br>
 **[May 2024]** BEAST is accepted to ICML 2024.<br>
 **[May 2024]** Invited talk on AI content detection at US Securities & Exchange Commission!<br>
