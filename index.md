@@ -106,7 +106,7 @@ Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc.
   <summary><b>2023</b></summary>
 Can AI-Generated Text be Reliably Detected?<br>
  <u>VS Sadasivan</u>, A Kumar, S Balasubramanian, W Wang, S Feizi<br>
- <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> Preprint Mar 2023.<br/>
+ <a href="https://arxiv.org/abs/2303.11156" target="_blank">[PDF]</a> TMLR 2025.<br/>
  Media 📢: 
  <a href="https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/" target="_blank">Washington Post</a>,
  <a href="https://www.wired.com/story/ai-detection-chat-gpt-college-students/" target="_blank">Wired</a>,
