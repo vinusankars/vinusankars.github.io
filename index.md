@@ -67,12 +67,17 @@ Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc.
 ## My Research
 
 <details open>
-  <summary><b>2024</b></summary>
-
+  <summary><b>2025</b></summary>
+ 
   IConMark: Robust Interpretable Concept-Based Watermark For AI Images<br>
   <u>VS Sadasivan</u>, M Saberi, S Feizi<br>
   <a href="#" target="_blank">[PDF]</a> GenAI Watermarking, ICLR 2025.<!-- <span style="color:#F75D59">Media coverage</span>: -->
   <br><br>
+ 
+</details>
+
+<details open>
+  <summary><b>2024</b></summary>
 
   LLM-Check: Investigating Detection of Hallucinations in Large Language Models<br>
   G Sriramanan, S Bharti, <u>VS Sadasivan</u>, S Saha, P Kattakinda, S Feizi<br>
