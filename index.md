@@ -21,6 +21,7 @@ Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc.
 
 ## News
 
+**[Mar 2025]** IConMark accepted at GenAI watermark @ ICLR. <br>
 **[Nov 2024]** Invited for a talk at UK AI Safety Institute.<br>
 **[Nov 2024]** Invited for MLOps Podcast.<br>
 **[Sep 2024]** LLM-Check is accepted to NeurIPS 2024.<br>
@@ -68,9 +69,14 @@ Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc.
 <details open>
   <summary><b>2024</b></summary>
 
+  IConMark: Robust Interpretable Concept-Based Watermark For AI Images<br>
+  <u>VS Sadasivan</u>, M Saberi, S Feizi<br>
+  <a href="#" target="_blank">[PDF]</a> GenAI Watermarking, ICLR 2025.<!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <br><br>
+
   LLM-Check: Investigating Detection of Hallucinations in Large Language Models<br>
   G Sriramanan, S Bharti, <u>VS Sadasivan</u>, S Saha, P Kattakinda, S Feizi<br>
-  <a href="#" target="_blank">[PDF]</a> NeurIPS 2024.<!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <a href="https://openreview.net/pdf?id=LYx4w3CAgy" target="_blank">[PDF]</a> NeurIPS 2024.<!-- <span style="color:#F75D59">Media coverage</span>: -->
   <br><br>
 
   DREW: Towards Robust Data Provenance by Leveraging Error-Controlled Watermarking<br>
