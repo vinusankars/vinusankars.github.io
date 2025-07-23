@@ -1,7 +1,7 @@
 title: Vinu Sankar Sadasivan
-position: CS PhD candidate 
-affiliation: UMD, College Park
-email: vinu@cs.umd.edu
+position: AI Research Scientist
+affiliation: GenAI, Meta
+email: vinu@meta.com
 random: sankar
 keywords: vinu sankar sadasivan, machine learning, research, vinu, sankar, shankar, sadasivan, artificial intelligence, iit gandhinagar, iitgn, phd, umd college park, umcp, google, meta, ai, fair, 
 google_scholar: https://scholar.google.com/citations?user=y1IKIw0AAAAJ&hl=en&oi=ao
@@ -13,6 +13,6 @@ avatar: ./assets/img/avatar.png
 google_analytics: UA-179771578-1
 favicon: ./assets/img/favicon1.png
 favicon_dark: ./assets/img/favicon-dark1.png
-description: Vinu Sankar Sadasivan is a CS PhD student at UMD College Park, interested in machine learning research.
+description: Vinu Sankar Sadasivan is a CS PhD graduate from UMD College Park, interested in AI research.
 canonical: https://vinusankars.github.io/
 remote_theme: #yaoyao-liu/minimal-light
