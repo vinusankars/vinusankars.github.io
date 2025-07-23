@@ -7,7 +7,8 @@ layout: homepage
 [[CV](https://vinusankars.github.io/assets/docs/Curriculum_Vitae_Public.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=y1IKIw0AAAAJ&hl=en&oi=ao){:target="_blank"}] [[Twitter](https://twitter.com/imVinusankars){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/vinusankars){:target="_blank"}] 
 
 
-I am a PhD graduate in Computer Science from [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"}. 
+I am an AI Research Scientist at Meta, working with the Llama safety team in the Menlo Park office.
+I graduated with a PhD in Computer Science from [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"}. 
 My PhD thesis is on AI Safety, advised by [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. 
 I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
 Previously, I worked as a Research Scientist intern at Meta FAIR on AI watermarking and as a student researcher at Google DeepMind on multimodal AI jailbreaking.
