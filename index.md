@@ -7,35 +7,38 @@ layout: homepage
 [[CV](https://vinusankars.github.io/assets/docs/Curriculum_Vitae_Public.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=y1IKIw0AAAAJ&hl=en&oi=ao){:target="_blank"}] [[Twitter](https://twitter.com/imVinusankars){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/vinusankars){:target="_blank"}] 
 
 
-I am a final year Computer Science PhD candidate at [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"} advised by [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. 
+I am a PhD graduate from [The University of Maryland, College Park](https://www.cs.umd.edu/people/vinu){:target="_blank"}. 
+My PhD thesis was on AI Safety, advised by [Prof. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/){:target="_blank"}. 
 I am a recipient of the [Kulkarni Fellowship 2023](https://www.cs.umd.edu/article/2023/06/graduate-student-vinu-sankar-sadasivan-receives-kulkarni-foundation-summer-research).
-My research interest broadly lies in the area of Security and Privacy in AI. 
-Currently, I am working as a full-time Student Researcher at Google DeepMind on jailbreaking multimodal AI models.
-Previously, I worked as a Research Scientist intern at Meta FAIR in Paris on AI watermarking.
-My PhD thesis at UMD majorly focuses on AI robustness, detectability, and user privacy.
+Previously, I worked as a Research Scientist intern at Meta FAIR on AI watermarking and as a student researcher at Google DeepMind on multimodal AI jailbreaking.
  
-I received the prestigious Director's Silver Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. 
+I received the prestigious Director's Medal and my Bachelor's degree in Computer Science & Engineering in 2020 from [IIT Gandhinagar](https://www.iitgn.ac.in/){:target="_blank"}. 
 I was a Junior Research Fellow with [Prof. Anirban Dasgupta](https://labs.iitgn.ac.in/datascience/anirban-dasgupta/){:target="_blank"} at IIT Gandhinagar, India in the [Data Science Lab](https://labs.iitgn.ac.in/datascience/){:target="_blank"}. 
 Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc. 
 
 ## News
 
+**[Jul 2025]** IConMark is out on arXiv. <br>
+**[Jul 2025]** My GDM jailbreaking work is out on arXiv. <br>
+**[Jun 2025]** Adversarial Paraphrasing is out on arXiv. <br>
+**[May 2025]** Successfully defended my PhD thesis :) <br>
 **[Mar 2025]** IConMark accepted at GenAI watermark @ ICLR. <br>
 **[Nov 2024]** Invited for a talk at UK AI Safety Institute.<br>
 **[Nov 2024]** Invited for MLOps Podcast.<br>
-**[Sep 2024]** LLM-Check is accepted to NeurIPS 2024.<br>
-**[Sep 2024]** Joining Google DeepMind, Mountain View as a Full-time Student Researcher.<br>
-**[May 2024]** Joining Meta FAIR, Paris as a Research Scientist Intern.<br>
-**[May 2024]** BEAST is accepted to ICML 2024.<br>
-**[May 2024]** Invited talk on AI content detection at US Securities & Exchange Commission!<br>
-**[Apr 2024]** Invited talk on BEAST (jailbreaking) at Amazon AWS Responsible AI team.<br>
-**[Feb 2024]** Interviewed by <a href="https://spectrum.ieee.org/ai-detection">IEEE Spectrum</a> for expert opinion on AI-text detection.<br>
-**[Nov 2023]** Gave a research talk at Google Research on our work on AI-text detection.<br> 
+
 
 <details>
 <summary> <b> Show more </b> </summary>
 <p>
-<b></b>[Oct 2023]</b> Our work on limitations of AI-image detectors is featured in Wired!<br>
+<b>[Sep 2024]</b> LLM-Check is accepted to NeurIPS 2024.<br>
+<b>[Sep 2024]</b> Joining Google DeepMind, Mountain View as a Full-time Student Researcher.<br>
+<b>[May 2024]</b> Joining Meta FAIR, Paris as a Research Scientist Intern.<br>
+<b>[May 2024]</b> BEAST is accepted to ICML 2024.<br>
+<b>[May 2024]</b> Invited talk on AI content detection at US Securities & Exchange Commission!<br>
+<b>[Apr 2024]</b> Invited talk on BEAST (jailbreaking) at Amazon AWS Responsible AI team.<br>
+<b>[Feb 2024]</b> Interviewed by <a href="https://spectrum.ieee.org/ai-detection">IEEE Spectrum</a> for expert opinion on AI-text detection.<br>
+<b>[Nov 2023]</b> Gave a research talk at Google Research on our work on AI-text detection.<br> 
+<b>[Oct 2023]</b> Our work on limitations of AI-image detectors is featured in Wired!<br>
 <b>[Jun 2023]</b> I am awarded the Kulkarni Summer Research Fellowship for 2023!<br>
 <b>[Jun 2023]</b> Interviewed by <a href="https://www.newscientist.com/article/2378706-ais-will-become-useless-if-they-keep-learning-from-other-ais/">New Scientist</a> for expert opinion on <a href="https://arxiv.org/abs/2305.17493">model collapse</a>.<br>
 <b>[Jun 2023]</b> Our work on hardness of AI-detectors is featured in Washington Post!<br>
@@ -67,10 +70,20 @@ Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc.
 
 <details open>
   <summary><b>2025</b></summary>
- 
+
+  Attacker's Noise Can Manipulate Your Audio-based LLM in the Real World<br>
+  <u>VS Sadasivan</u>, S Feizi, R Mathews, L Wang<br>
+  <a href="https://arxiv.org/abs/2507.06256" target="_blank">[PDF]</a> Preprint Jul 2025.<!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <br><br>
+  
+  Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text<br>
+  Y Cheng*, <u>VS Sadasivan*</u>, M Saberi, S Saha, S Feizi<br>
+  <a href="https://arxiv.org/abs/2506.07001" target="_blank">[PDF]</a> Preprint Jun 2025.<!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <br><br>
+  
   IConMark: Robust Interpretable Concept-Based Watermark For AI Images<br>
   <u>VS Sadasivan</u>, M Saberi, S Feizi<br>
-  <a href="#" target="_blank">[PDF]</a> GenAI Watermarking, ICLR 2025.<!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <a href="https://arxiv.org/abs/2507.13407" target="_blank">[PDF]</a> GenAI Watermarking, ICLR 2025.<!-- <span style="color:#F75D59">Media coverage</span>: -->
   <br><br>
  
 </details>
@@ -168,4 +181,4 @@ High accuracy patch-level classification of wireless capsule endoscopy images us
 
 ## Personal Stuff
 
-I come from the beautiful town [Kollam](https://en.wikipedia.org/wiki/Kollam){:target="_blank"} in Kerala. In my free time, I love to sing and play the ukulele and guitar. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my musical covers. I also love playing badminton, soccer, ultimate frisbee, and cricket. 
+I come from the beautiful town [Kollam](https://en.wikipedia.org/wiki/Kollam){:target="_blank"} in Kerala. In my free time, I love to sing and play the guitar. Check out my [YouTube](https://www.youtube.com/channel/UCqtXUoA6m6mDXuoHyMy31PQ){:target="_blank"} and [Instagram](https://www.instagram.com/vinusankars/){:target="_blank"} pages for my musical covers. I also love playing badminton and ultimate frisbee. 
