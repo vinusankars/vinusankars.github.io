@@ -13,6 +13,6 @@ avatar: ./assets/img/avatar.png
 google_analytics: UA-179771578-1
 favicon: ./assets/img/favicon1.png
 favicon_dark: ./assets/img/favicon-dark1.png
-description: Vinu Sankar Sadasivan is a CS PhD graduate from UMD College Park, interested in AI research.
+description: Vinu Sankar Sadasivan is an AI Research Scientist at Meta SuperIntelligence Labs, Menlo Park, working with the Trust Alignment team.
 canonical: https://vinusankars.github.io/
 remote_theme: #yaoyao-liu/minimal-light
