@@ -76,12 +76,12 @@ Before my PhD, I had interned at Caltech, Microsoft Research India, and IISc.
 
   Attacker's Noise Can Manipulate Your Audio-based LLM in the Real World<br>
   <u>VS Sadasivan</u>, S Feizi, R Mathews, L Wang<br>
-  <a href="https://arxiv.org/abs/2507.06256" target="_blank">[PDF]</a> Preprint Jul 2025.<!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <a href="https://arxiv.org/abs/2507.06256" target="_blank">[PDF]</a> Accepted at EACL 2026 (Oral).<!-- <span style="color:#F75D59">Media coverage</span>: -->
   <br><br>
   
   Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text<br>
   Y Cheng*, <u>VS Sadasivan*</u>, M Saberi, S Saha, S Feizi<br>
-  <a href="https://arxiv.org/abs/2506.07001" target="_blank">[PDF]</a> Preprint Jun 2025.<!-- <span style="color:#F75D59">Media coverage</span>: -->
+  <a href="https://arxiv.org/abs/2506.07001" target="_blank">[PDF]</a> Accepted at NeurIPS 2026.<!-- <span style="color:#F75D59">Media coverage</span>: -->
   <br><br>
   
   IConMark: Robust Interpretable Concept-Based Watermark For AI Images<br>
